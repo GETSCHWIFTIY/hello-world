@@ -1,4 +1,4 @@
 # hello-world
-my first repository, build to learn Github
+my first repository, built to learn Github
 
-im a 23 year old student at the university augsburg
+im a 24 year old student at the university augsburg
